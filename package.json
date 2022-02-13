@@ -24,7 +24,7 @@
     "url": "https://github.com/newrelic/newrelic-winston-logenricher-node.git"
   },
   "dependencies": {
-    "winston": "^3.0.0"
+    "winston": "^3.4.0"
   },
   "peerDependencies": {
     "newrelic": ">=6.2.0"
