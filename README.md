@@ -1,3 +1,9 @@
+_**This is repository is no longer maintained. The relevant code has been moved to https://github.com/newrelic/newrelic-node-log-extensions/tree/main/packages/winston-log-enricher.**_
+
+<br />
+<br />
+<br />
+
 [![Community Plus header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Community_Plus.png)](https://opensource.newrelic.com/oss-category/#community-plus)
 
 # @newrelic/winston-enricher
@@ -59,7 +65,7 @@ If the issue has been confirmed as a bug or is a feature request, file a GitHub 
 * [New Relic Community](https://discuss.newrelic.com/t/node-log-enrichers-logs-in-context/88806): The best place to engage in troubleshooting questions
 * [New Relic Developer](https://developer.newrelic.com/): Resources for building a custom observability applications
 * [New Relic University](https://learn.newrelic.com/): A range of online training for New Relic users of every level
-* **[For Community Plus repositories]** [New Relic Technical Support](https://support.newrelic.com/) 24/7/365 ticketed support. Read more about our [Technical Support Offerings](https://docs.newrelic.com/docs/licenses/license-information/general-usage-licenses/support-plan). 
+* **[For Community Plus repositories]** [New Relic Technical Support](https://support.newrelic.com/) 24/7/365 ticketed support. Read more about our [Technical Support Offerings](https://docs.newrelic.com/docs/licenses/license-information/general-usage-licenses/support-plan).
 
 ## Privacy
 At New Relic we take your privacy and the security of your information seriously, and are committed to protecting your information. We must emphasize the importance of not sharing personal data in public forums, and ask all users to scrub logs and diagnostic information for sensitive information, whether personal, proprietary, or otherwise.
@@ -87,5 +93,3 @@ To [all contributors](https://github.com/newrelic/newrelic-winston-logenricher-n
 ## License
 
 `newrelic-winston-logenricher-node` is licensed under the [Apache 2.0](http://apache.org/licenses/LICENSE-2.0.txt) License.
-
-
